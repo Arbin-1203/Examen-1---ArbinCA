@@ -1,0 +1,8 @@
+C:\Users\XPC\Desktop\UH\Cuatri I - 2023\Programacion ll\Examen 1 - ArbinChacon\Examen 1 - ArbinChacon\bin\Debug\Examen 1 - ArbinChacon.exe.config
+C:\Users\XPC\Desktop\UH\Cuatri I - 2023\Programacion ll\Examen 1 - ArbinChacon\Examen 1 - ArbinChacon\bin\Debug\Examen 1 - ArbinChacon.exe
+C:\Users\XPC\Desktop\UH\Cuatri I - 2023\Programacion ll\Examen 1 - ArbinChacon\Examen 1 - ArbinChacon\bin\Debug\Examen 1 - ArbinChacon.pdb
+C:\Users\XPC\Desktop\UH\Cuatri I - 2023\Programacion ll\Examen 1 - ArbinChacon\Examen 1 - ArbinChacon\obj\Debug\Examen 1 - ArbinChacon.csproj.AssemblyReference.cache
+C:\Users\XPC\Desktop\UH\Cuatri I - 2023\Programacion ll\Examen 1 - ArbinChacon\Examen 1 - ArbinChacon\obj\Debug\Examen 1 - ArbinChacon.csproj.SuggestedBindingRedirects.cache
+C:\Users\XPC\Desktop\UH\Cuatri I - 2023\Programacion ll\Examen 1 - ArbinChacon\Examen 1 - ArbinChacon\obj\Debug\Examen 1 - ArbinChacon.csproj.CoreCompileInputs.cache
+C:\Users\XPC\Desktop\UH\Cuatri I - 2023\Programacion ll\Examen 1 - ArbinChacon\Examen 1 - ArbinChacon\obj\Debug\Examen 1 - ArbinChacon.exe
+C:\Users\XPC\Desktop\UH\Cuatri I - 2023\Programacion ll\Examen 1 - ArbinChacon\Examen 1 - ArbinChacon\obj\Debug\Examen 1 - ArbinChacon.pdb
